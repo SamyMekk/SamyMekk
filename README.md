@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Mekkaoui Samy 👋
 
-<!--
-**SamyMekk/SamyMekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/samy-mekkaoui-3ba12a1b6/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/SamyMekk)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently a 22 years old student in ENSAE Paris in my Master 1 Degree. I'm working especially in Actuarial and Financial Science which involves also a deep knowledge in statistics/stochastic calculus and programming.
+
+### Talking about Personal Stuffs : 
+
+
+- 🔭 I’m currently working in Caisse des Dépôts in the "Fonds d'Epargne" Department as a Quantitative analyst in ALM ( Asset Liability Management) ...
+- 📫 How to reach me: [Samy Mekkaoui](mailto:samy.mekkaoui@ensae.fr?subject=[GitHub]%20Source%20Han%20Sans)
+- ⚡ Fun fact: I love football and especially FC Barcelona.  I have been practicing this sport since my childhood. I also enjoy watching a lot of sports including basketball,tennis,athletism
+
