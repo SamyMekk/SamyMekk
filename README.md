@@ -5,7 +5,7 @@
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/SamyMekk)
 
 
-I'm currently a 22 years old student in ENSAE Paris in my Master 1 Degree. I'm working especially in Actuarial and Financial Science which involves also a deep knowledge in statistics/stochastic calculus and programming.
+I'm currently a 23 years old student in ENSAE Paris in my Master 1 Degree. I'm working especially in Actuarial and Financial Science which involves also a deep knowledge in statistics/stochastic calculus and programming.
 
 ### Talking about Personal Stuffs : 
 
