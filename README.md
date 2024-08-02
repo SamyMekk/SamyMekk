@@ -16,7 +16,7 @@ Here are some of my key projects:
 Redaction of an Actuarial Thesis about XVA Computations  to become a member of the Actuarial French Institute
 
 ### [Deep Calibration of Interest Model](https://github.com/SamyMekk/project2)
-Study of FFN and CNN in order  to calibrate some affine interest rate models ( $Hull & White$ and $G2++$)
+Study of FFN and CNN in order  to calibrate some affine interest rate models ( Hull & White and G2++)
 
 ### [Strong convergence of symetrized Milstein scheme of CEV SDEs ](https://github.com/SamyMekk/project3)
 Implementing machine learning algorithms to predict financial trends and optimize portfolios.
