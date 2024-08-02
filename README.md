@@ -1,8 +1,8 @@
 ### Hi there, I'm Mekkaoui Samy 👋
 
-[![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/samy-mekkaoui-3ba12a1b6/)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/SamyMekk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samy-mekkaoui-3ba12a1b6/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamyMekk)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.yourwebsite.com)
 
 I'm currently a 24-year-old student at ENSAE Paris in my Master 2 Degree. I specialize in Actuarial and Financial Science, which also involves a deep knowledge of statistics, stochastic calculus, and programming.
 
@@ -53,3 +53,4 @@ I am Mekkaoui Samy, a technology and science enthusiast. I love exploring new re
 
 ---
 
+_This README was created with the help of ChatGPT._
