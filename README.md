@@ -19,7 +19,7 @@ On this GitHub, you may find various projects that I completed during my univers
 Contact : samy.mekkaoui@ensae.fr
 
 
-## Key Projects
+## Some Projects
 
 
 ### [Actuarial Thesis ](https://github.com/SamyMekk/project1)
