@@ -32,3 +32,12 @@ Study of $\textbf{FFN}$ and  $\textbf{CNN}$ in order  to calibrate some affine i
 ### [Strong convergence of symetrized Milstein scheme of CEV SDEs ](https://github.com/SamyMekk/Monte-Carlo-Projects)
 Study of $\textbf{CEV SDEs}$ and the rate of convergence of some schemes 
 
+
+## 🌟 About Me
+
+I am Mekkaoui Samy, a technology and science enthusiast. I love exploring new research areas and sharing my knowledge with the community. Outside of work, here are some of my passions:
+
+- **Traveling**: Discovering new cultures and landscapes.
+- **Cooking**: Experimenting with recipes from different countries.
+- **Reading**: Diving into science fiction and fantasy books.
+- **Sports**: Playing football and tennis.
