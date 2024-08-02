@@ -8,19 +8,11 @@ I'm currently a 24-year-old student at ENSAE Paris in my Master 2 Degree. I spec
 
 On this GitHub, you may find various projects that I completed during my university studies.
 
-## 🔍 Current Research
-
-Currently, my research focuses on:
-
-- **Actuarial Science**: Developing models for risk assessment and insurance.
-- **Financial Mathematics**: Applying stochastic calculus to financial markets.
-- **Data Analysis and Machine Learning**: Using advanced statistical techniques for data-driven decision making.
-
 ## 📂 Key Projects
 
 Here are some of my key projects:
 
-### [Project 1: Actuarial Risk Model](https://github.com/SamyMekk/project1)
+### [Project 1: ](https://github.com/SamyMekk/project1)
 Development of a comprehensive risk model for insurance underwriting using stochastic processes.
 
 ### [Project 2: Financial Market Analysis](https://github.com/SamyMekk/project2)
@@ -34,8 +26,6 @@ Implementing machine learning algorithms to predict financial trends and optimiz
 I am Mekkaoui Samy, a technology and science enthusiast. I love exploring new research areas and sharing my knowledge with the community. Outside of work, here are some of my passions:
 
 - **Traveling**: Discovering new cultures and landscapes.
-- **Cooking**: Experimenting with recipes from different countries.
-- **Reading**: Diving into science fiction and fantasy books.
 - **Sports**: Playing football and tennis.
 
 ## 🔭 Currently Working On
