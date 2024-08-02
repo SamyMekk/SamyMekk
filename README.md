@@ -28,19 +28,18 @@ I am Mekkaoui Samy, a technology and science enthusiast. I love exploring new re
 - **Traveling**: Discovering new cultures and landscapes.
 - **Sports**: Playing football and tennis.
 
-## 🔭 Currently Working On
+## Currently Working On
 
 - Currently working at ...
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 - [Samy Mekkaoui](mailto:samy.mekkaoui@ensae.fr?subject=[GitHub]%20Source%20Han%20Sans)
 
-## ⚡ Fun Facts About Me
+## Fun Facts About Me
 
 - I love football and especially FC Barcelona. I have been practicing this sport since my childhood.
 - I also enjoy watching a lot of sports, including basketball, tennis, and athletics.
 
 ---
 
-_This README was created with the help of ChatGPT._
