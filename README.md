@@ -19,7 +19,7 @@ Redaction of an Actuarial Thesis about XVA Computations  to become a member of t
 Study of $\textbf{FFN}$ and  $\textbf{CNN}$ in order  to calibrate some affine interest rate models ( Hull & White and G2++)
 
 ### [Strong convergence of symetrized Milstein scheme of CEV SDEs ](https://github.com/SamyMekk/project3)
-Study of CEV SDEs and the rate of convergence of some schemes 
+Study of $\textbf{CEV SDEs}$ and the rate of convergence of some schemes 
 
 ## About Me
 
