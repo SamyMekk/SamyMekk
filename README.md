@@ -5,12 +5,12 @@
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/SamyMekk)
 
 
-I'm currently a 23 years old student in ENSAE Paris in my Master 1 Degree. I'm working especially in Actuarial and Financial Science which involves also a deep knowledge in statistics/stochastic calculus and programming.
+I'm currently a 24 years old student in ENSAE Paris in my Master 2 Degree. I'm working especially in Actuarial and Financial Science which involves also a deep knowledge in statistics/stochastic calculus and programming.
 
 ### Talking about Personal Stuffs : 
 
 
-- 🔭 I’m currently working in Caisse des Dépôts in the "Fonds d'Epargne" Department as a Quantitative analyst in ALM ( Asset Liability Management) ...
+- 🔭 I’m currently working at  ...
 - 📫 How to reach me: [Samy Mekkaoui](mailto:samy.mekkaoui@ensae.fr?subject=[GitHub]%20Source%20Han%20Sans)
 - ⚡ Facts about me : I love football and especially FC Barcelona.  I have been practicing this sport since my childhood. I also enjoy watching a lot of sports including basketball,tennis,athletism
 
