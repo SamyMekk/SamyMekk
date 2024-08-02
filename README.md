@@ -9,12 +9,11 @@
 
 ## About Me
 
-I am Mekkaoui Samy, a technology and science enthusiast. I love exploring new research areas and sharing my knowledge with the community. Outside of work, here are some of my passions:
+I'm currently a 24-year-old student at ENSAE Paris in my Master 2 Degree. I specialize in Actuarial and Financial Science, which also involves a deep knowledge of statistics, stochastic calculus, and programming.
+On this GitHub, you may find various projects that I completed during my university studies.
 
 - **Traveling**: Discovering new cultures and landscapes.
 - **Sports**: Playing football and tennis.
-I'm currently a 24-year-old student at ENSAE Paris in my Master 2 Degree. I specialize in Actuarial and Financial Science, which also involves a deep knowledge of statistics, stochastic calculus, and programming.
-On this GitHub, you may find various projects that I completed during my university studies.
 
 
 Contact : samy.mekkaoui@ensae.fr
