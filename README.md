@@ -53,4 +53,3 @@ I am Mekkaoui Samy, a technology and science enthusiast. I love exploring new re
 
 ---
 
-_This README was created with the help of ChatGPT._
