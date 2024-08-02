@@ -13,7 +13,10 @@ I'm currently a 24-year-old student at ENSAE Paris in my Master 2 Degree. I spec
 On this GitHub, you may find various projects that I completed during my university studies.
 
 
+Outside of work, here are some of my passions:
 
+- **Sports**: Playing football and tennis.
+- 
 Contact : samy.mekkaoui@ensae.fr
 
 
