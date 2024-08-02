@@ -21,7 +21,6 @@ Contact : samy.mekkaoui@ensae.fr
 
 ## Key Projects
 
-Here are some of my key projects:
 
 ### [Actuarial Thesis ](https://github.com/SamyMekk/project1)
 Redaction of an Actuarial Thesis about XVA Computations  to become a member of the Actuarial French Institute
