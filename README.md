@@ -13,7 +13,7 @@ On this GitHub, you may find various projects that I completed during my univers
 Here are some of my key projects:
 
 ### [Actuarial Thesis ](https://github.com/SamyMekk/project1)
-Redaction of an Actuarial Thesis to become a member of the Actuarial French Institute
+Redaction of an Actuarial Thesis about XVA Computations  to become a member of the Actuarial French Institute
 
 ### [Deep Calibration of Interest Model](https://github.com/SamyMekk/project2)
 Analysis and modeling of financial markets using time series and stochastic calculus.
