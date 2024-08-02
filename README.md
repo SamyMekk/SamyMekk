@@ -7,6 +7,8 @@
 
 I'm currently a 24 years old student in ENSAE Paris in my Master 2 Degree. I'm working especially in Actuarial and Financial Science which involves also a deep knowledge in statistics/stochastic calculus and programming.
 
+On this Github, you may find various projects that I did during my university cursus 
+
 ### Talking about Personal Stuffs : 
 
 
