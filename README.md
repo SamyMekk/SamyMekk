@@ -1,4 +1,4 @@
-# Mekkaoui Samy 
+## Mekkaoui Samy 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samy-mekkaoui-3ba12a1b6/)
@@ -7,7 +7,7 @@
 
 
 
-## About Me
+### About Me
 
 I'm currently a 24-year-old student at ENSAE Paris in my Master 2 Degree. I specialize in Actuarial and Financial Science, which also involves a deep knowledge of statistics, stochastic calculus, and programming.
 On this GitHub, you may find various projects that I completed during my university studies.
@@ -19,7 +19,7 @@ On this GitHub, you may find various projects that I completed during my univers
 Contact : samy.mekkaoui@ensae.fr
 
 
-## Some Projects
+### Some Projects
 
 
 ### [Actuarial Thesis ](https://github.com/SamyMekk/project1)
