@@ -12,13 +12,13 @@ On this GitHub, you may find various projects that I completed during my univers
 
 Here are some of my key projects:
 
-### [Project 1: ](https://github.com/SamyMekk/project1)
+### [Actuarial Thesis](https://github.com/SamyMekk/project1)
 Development of a comprehensive risk model for insurance underwriting using stochastic processes.
 
-### [Project 2: Financial Market Analysis](https://github.com/SamyMekk/project2)
+### [Deep Calibration of Interest Model](https://github.com/SamyMekk/project2)
 Analysis and modeling of financial markets using time series and stochastic calculus.
 
-### [Project 3: Machine Learning in Finance](https://github.com/SamyMekk/project3)
+### [Strong convergence of symetrized Milstein scheme of CEV SDEs ](https://github.com/SamyMekk/project3)
 Implementing machine learning algorithms to predict financial trends and optimize portfolios.
 
 ## 🌟 About Me
