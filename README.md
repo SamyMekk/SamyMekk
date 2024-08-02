@@ -17,7 +17,7 @@ I'm currently a 24-year-old student at ENSAE Paris in my Master 2 Degree. I spec
 On this GitHub, you may find various projects that I completed during my university studies.
 
 
-Contact : [Samy Mekkaoui](mailto:samy.mekkaoui@ensae.fr?subject=[GitHub]%20Source%20Han%20Sans)
+Contact : samy.mekkaoui@ensae.fr
 
 
 ## Key Projects
