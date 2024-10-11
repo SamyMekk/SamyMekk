@@ -17,7 +17,7 @@ Outside of work, here are some of my passions:
 - **Sports**: Playing football and tennis.
 - **Traveling**: Discovering new cultures and landscapes.
 
-Contact : samy.mekkaoui@ensae.fr
+Contact : samy.mekkaoui@polytecnique.edu
 
 
 ## Some Projects
