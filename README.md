@@ -24,7 +24,9 @@ Contact : samy.mekkaoui@ensae.fr
 
 
 ### [Actuarial Thesis ](https://github.com/SamyMekk/project1)
-Redaction of an Actuarial Thesis about XVA Computations to become a member of the Actuarial French Institute
+Redaction of an Actuarial Thesis about XVA Computations to become a member of the Actuarial French Institute.
+
+
 
 ### [Deep Calibration of Interest Rate Model](https://github.com/SamyMekk/Deep_Learning_For_Finance)
 Study of $\textbf{FFN}$ and  $\textbf{CNN}$ in order  to calibrate some affine interest rate models ( Hull & White and G2++)
