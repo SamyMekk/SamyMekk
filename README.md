@@ -24,7 +24,7 @@ Contact : samy.mekkaoui@polytechnique.edu
 ## Some Projects
 
 
-### [Actuarial Thesis ](https://github.com/SamyMekk/project1)
+### [Actuarial Thesis ](https://github.com/SamyMekk/Actuarial-Dissertation)
 Redaction of an Actuarial Thesis about XVA Computations to become a member of the Actuarial French Institute.
 
 
