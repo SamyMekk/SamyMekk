@@ -10,7 +10,7 @@
 
 I'm currently a 24-year-old PhD Student at Ecole Polytechnique working on stochastic control and mean field systems. I specialize in Actuarial and Financial Science, which also involves a deep knowledge of statistics, stochastic calculus, and programming.
 On this GitHub, you may find various projects that I completed during my university studies.
-Don't hesitate to take a look at my [website][https://samymekk.github.io) which I will  regularly update.
+Don't hesitate to take a look at my [website](https://samymekk.github.io) which I will  regularly update.
 
 
 Outside of work, here are some of my passions:
