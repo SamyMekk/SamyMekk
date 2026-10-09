@@ -8,7 +8,9 @@
 
 ## About Me
 
-I'm currently a 24-year-old PhD student at Ecole Polytechnique at the [CMAP](https://cmap.ip-paris.fr/) laboratory working on stochastic control and mean field systems. I specialize in Actuarial and Financial Science, which  involves a deep knowledge of statistics, stochastic calculus, and programming.
+I'm currently a 26-year-old PhD student at Ecole Polytechnique at the [CMAP](https://cmap.ip-paris.fr/) laboratory working on stochastic control and mean field systems. I specialize in Actuarial and Financial Science, which  involves a deep knowledge of statistics, stochastic calculus, and programming.
+
+You can find my webpage [here](samymekk.github.io).
 
 I graduated from both [ENSAE Paris](https://www.ensae.fr/) and [M2MO](https://masterfinance.math.univ-paris-diderot.fr/) from the end of 2024.  I am also a fresh new member of the [French Actuarial Institute](https://www.institutdesactuaires.com/) for which I wrote a dissertation available [here](https://samymekk.github.io/files/M%C3%A9moire_d_Actuariat-Samy.pdf).
 
